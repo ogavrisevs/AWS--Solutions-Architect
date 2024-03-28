@@ -5,7 +5,6 @@ Intro
     * Users are people within your organization, and can be grouped
     * Groups only contain users, not other groups
 
-
 IAM Policies
 -------------
 
@@ -14,3 +13,19 @@ IAM Policies
 
 IAM Role
 -------------
+
+    * Permissions to AWS services with IAM Roles
+    * Assume role as user
+
+MFA
+-------
+
+   * MFA = password you know + security device you own
+        - Virtual MFA (Google Authenticator, Authy)
+        - Universal 2nd Factor (UFA) Security Key
+        - Hardware Key For MFA Device
+
+
+
+
+       
